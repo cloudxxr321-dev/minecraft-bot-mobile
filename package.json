@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-bot-mobile",
+  "version": "1.0.0",
+  "description": "Minecraft bot for Termux",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  }
+}
